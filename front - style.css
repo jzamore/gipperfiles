@@ -1,0 +1,733 @@
+.final-mailer-front {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.final-mailer-front .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 888px;
+  height: 600px;
+}
+
+.final-mailer-front .overlap {
+  position: relative;
+  width: 1082px;
+  height: 1188px;
+  top: -373px;
+  left: -218px;
+}
+
+.final-mailer-front .header {
+  position: absolute;
+  width: 1032px;
+  height: 750px;
+  top: 219px;
+  left: -23px;
+  background-color: var(--atomic-colors-gray-scale-gray-15);
+  overflow: hidden;
+  transform: rotate(-75.42deg);
+}
+
+.final-mailer-front .rectangle {
+  position: relative;
+  width: 647px;
+  height: 72px;
+  top: 471px;
+  left: -129px;
+  background-color: #38b234;
+  transform: rotate(75.42deg);
+}
+
+.final-mailer-front .div {
+  position: absolute;
+  width: 122px;
+  height: 122px;
+  top: 792px;
+  left: 256px;
+  background-color: #384047;
+  border-radius: 11.4px;
+}
+
+.final-mailer-front .rectangle-2 {
+  position: absolute;
+  width: 122px;
+  height: 122px;
+  top: 792px;
+  left: 391px;
+  background-color: #384047;
+  border-radius: 11.4px;
+}
+
+.final-mailer-front .rectangle-3 {
+  position: absolute;
+  width: 122px;
+  height: 122px;
+  top: 792px;
+  left: 527px;
+  background-color: #384047;
+  border-radius: 11.4px;
+}
+
+.final-mailer-front .rectangle-4 {
+  position: absolute;
+  width: 122px;
+  height: 122px;
+  top: 792px;
+  left: 663px;
+  background-color: #384047;
+  border-radius: 11.4px;
+}
+
+.final-mailer-front .element-templates {
+  position: absolute;
+  width: 138px;
+  top: 821px;
+  left: 248px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 28.1px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.final-mailer-front .text-wrapper {
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.final-mailer-front .span {
+  font-weight: 600;
+  font-style: italic;
+  color: #38b234;
+  font-size: 21.6px;
+}
+
+.final-mailer-front .AUTO-branding {
+  position: absolute;
+  top: 821px;
+  left: 406px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.final-mailer-front .text-wrapper-2 {
+  font-weight: 600;
+  font-style: italic;
+  color: #38b234;
+  font-size: 21.4px;
+}
+
+.final-mailer-front .INSTANT-sharing {
+  position: absolute;
+  top: 824px;
+  left: 668px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.final-mailer-front .element-CLICK-cutouts {
+  position: absolute;
+  top: 822px;
+  left: 532px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 27px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.final-mailer-front .create-social-media {
+  position: absolute;
+  width: 618px;
+  top: 421px;
+  left: 256px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.final-mailer-front .text-wrapper-3 {
+  font-weight: 900;
+  font-style: italic;
+  color: #ffffff;
+}
+
+.final-mailer-front .text-wrapper-4 {
+  font-weight: 900;
+  color: #ffffff;
+}
+
+.final-mailer-front .text-wrapper-5 {
+  font-weight: 900;
+  font-style: italic;
+  color: #38b234;
+}
+
+.final-mailer-front .group {
+  position: absolute;
+  width: 755px;
+  height: 201px;
+  top: 514px;
+  left: 256px;
+}
+
+.final-mailer-front .overlap-group-wrapper {
+  position: absolute;
+  width: 139px;
+  height: 200px;
+  top: 1px;
+  left: 0;
+}
+
+.final-mailer-front .overlap-group {
+  position: relative;
+  width: 147px;
+  height: 204px;
+  left: -4px;
+}
+
+.final-mailer-front .rectangle-5 {
+  position: absolute;
+  width: 147px;
+  height: 198px;
+  top: 6px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 3.16px;
+  border: 3.95px solid;
+  border-color: #f1f2f4;
+}
+
+.final-mailer-front .vector {
+  position: absolute;
+  width: 9px;
+  height: 8px;
+  top: 186px;
+  left: 13px;
+}
+
+.final-mailer-front .img {
+  position: absolute;
+  width: 8px;
+  height: 9px;
+  top: 185px;
+  left: 25px;
+}
+
+.final-mailer-front .vector-2 {
+  position: absolute;
+  width: 9px;
+  height: 8px;
+  top: 186px;
+  left: 36px;
+}
+
+.final-mailer-front .default-award {
+  position: absolute;
+  width: 131px;
+  height: 164px;
+  top: 15px;
+  left: 8px;
+  object-fit: cover;
+}
+
+.final-mailer-front .div-wrapper {
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  top: 0;
+  left: 31px;
+}
+
+.final-mailer-front .facebook-wrapper {
+  position: relative;
+  width: 28px;
+  height: 28px;
+  top: -2px;
+  left: -2px;
+  background-color: #55acee;
+  border-radius: 6.29px;
+  border: 2.22px solid;
+  border-color: #ffffff;
+}
+
+.final-mailer-front .facebook {
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.final-mailer-front .IG-school {
+  position: absolute;
+  width: 139px;
+  height: 200px;
+  top: 1px;
+  left: 154px;
+}
+
+.final-mailer-front .IG-wrapper {
+  position: relative;
+  width: 29px;
+  height: 29px;
+  top: -3px;
+  left: -3px;
+  background-color: #ff6057;
+  border-radius: 6.34px;
+  border: 2.68px solid;
+  border-color: #ffffff;
+}
+
+.final-mailer-front .IG {
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  top: 1px;
+  left: 1px;
+  object-fit: cover;
+}
+
+.final-mailer-front .IG-school-2 {
+  height: 200px;
+  top: 1px;
+  left: 462px;
+  position: absolute;
+  width: 139px;
+}
+
+.final-mailer-front .default-award-2 {
+  top: 16px;
+  object-fit: cover;
+  position: absolute;
+  width: 131px;
+  height: 163px;
+  left: 8px;
+}
+
+.final-mailer-front .TW-athletics {
+  position: absolute;
+  width: 139px;
+  height: 200px;
+  top: 1px;
+  left: 616px;
+}
+
+.final-mailer-front .overlap-group-2 {
+  position: relative;
+  height: 23px;
+}
+
+.final-mailer-front .tw-wrapper {
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  top: 0;
+  left: 0;
+}
+
+.final-mailer-front .tw {
+  height: 23px;
+}
+
+.final-mailer-front .rectangle-6 {
+  position: relative;
+  width: 29px;
+  height: 29px;
+  top: -3px;
+  left: -3px;
+  background-color: var(--grayscalegray-10);
+  border-radius: 6.3px;
+  border: 2.66px solid;
+  border-color: #ffffff;
+}
+
+.final-mailer-front .x-tw {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  top: 5px;
+  left: 5px;
+  object-fit: cover;
+}
+
+.final-mailer-front .IG-school-3 {
+  height: 201px;
+  top: 0;
+  left: 308px;
+  position: absolute;
+  width: 139px;
+}
+
+.final-mailer-front .overlap-2 {
+  position: relative;
+  width: 147px;
+  height: 205px;
+  left: -4px;
+}
+
+.final-mailer-front .rectangle-7 {
+  position: absolute;
+  width: 147px;
+  height: 198px;
+  top: 7px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 3.16px;
+  border: 3.95px solid;
+  border-color: #f1f2f4;
+}
+
+.final-mailer-front .vector-3 {
+  position: absolute;
+  width: 9px;
+  height: 8px;
+  top: 187px;
+  left: 13px;
+}
+
+.final-mailer-front .vector-4 {
+  position: absolute;
+  width: 8px;
+  height: 9px;
+  top: 186px;
+  left: 25px;
+}
+
+.final-mailer-front .vector-5 {
+  position: absolute;
+  width: 9px;
+  height: 8px;
+  top: 187px;
+  left: 36px;
+}
+
+.final-mailer-front .default-award-3 {
+  top: 32px;
+  position: absolute;
+  width: 131px;
+  height: 163px;
+  left: 8px;
+}
+
+.final-mailer-front .rectangle-8 {
+  position: absolute;
+  width: 139px;
+  height: 18px;
+  top: 11px;
+  left: 4px;
+  background-color: #f1f2f4;
+  border-radius: 3.16px 3.16px 0px 0px;
+}
+
+.final-mailer-front .ellipse {
+  left: 11px;
+  background-color: #ff5f58;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 17px;
+  border-radius: 2.32px;
+}
+
+.final-mailer-front .ellipse-2 {
+  left: 16px;
+  background-color: #febb2f;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 17px;
+  border-radius: 2.32px;
+}
+
+.final-mailer-front .ellipse-3 {
+  left: 22px;
+  background-color: #28c841;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 17px;
+  border-radius: 2.32px;
+}
+
+.final-mailer-front .newsletter {
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  top: 0;
+  left: 41px;
+}
+
+.final-mailer-front .mail-wrapper {
+  position: relative;
+  width: 29px;
+  height: 29px;
+  top: -3px;
+  left: -3px;
+  background-color: var(--semanticsuccess-green);
+  border-radius: 6.3px;
+  border: 2.66px solid;
+  border-color: #ffffff;
+}
+
+.final-mailer-front .mail {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 6px;
+  left: 6px;
+}
+
+.final-mailer-front .group-2 {
+  position: absolute;
+  width: 153px;
+  height: 153px;
+  top: 781px;
+  left: 893px;
+}
+
+.final-mailer-front .overlap-3 {
+  position: relative;
+  height: 153px;
+  border-radius: 9.87px;
+}
+
+.final-mailer-front .nadc-qr-code {
+  position: absolute;
+  width: 145px;
+  height: 145px;
+  top: 4px;
+  left: 4px;
+  object-fit: cover;
+}
+
+.final-mailer-front .nadc-qr-code-2 {
+  position: absolute;
+  width: 153px;
+  height: 153px;
+  top: 0;
+  left: 0;
+  border-radius: 9.87px;
+  border: 2.96px solid;
+  border-color: #000000;
+}
+
+.final-mailer-front .gipper-is-the {
+  position: absolute;
+  width: 580px;
+  top: 729px;
+  left: 256px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.final-mailer-front .text-wrapper-6 {
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.final-mailer-front .logos {
+  position: absolute;
+  width: 117px;
+  height: 31px;
+  top: 422px;
+  left: 951px;
+}
+
+.final-mailer-front .gipper-logo {
+  position: relative;
+  height: 31px;
+}
+
+.final-mailer-front .shape {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  top: 0;
+  left: 0;
+}
+
+.final-mailer-front .rectangle-9 {
+  position: absolute;
+  width: 24px;
+  height: 25px;
+  top: 3px;
+  left: 3px;
+  background-color: #ffffff;
+}
+
+.final-mailer-front .shape-2 {
+  position: absolute;
+  width: 15px;
+  height: 21px;
+  top: 7px;
+  left: 37px;
+}
+
+.final-mailer-front .shape-3 {
+  position: absolute;
+  width: 15px;
+  height: 21px;
+  top: 7px;
+  left: 76px;
+}
+
+.final-mailer-front .shape-4 {
+  position: absolute;
+  width: 15px;
+  height: 21px;
+  top: 7px;
+  left: 60px;
+}
+
+.final-mailer-front .shape-5 {
+  position: absolute;
+  width: 14px;
+  height: 15px;
+  top: 7px;
+  left: 92px;
+}
+
+.final-mailer-front .shape-6 {
+  position: absolute;
+  width: 10px;
+  height: 14px;
+  top: 7px;
+  left: 107px;
+}
+
+.final-mailer-front .shape-7 {
+  position: absolute;
+  width: 4px;
+  height: 14px;
+  top: 8px;
+  left: 54px;
+}
+
+.final-mailer-front .shape-8 {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 1px;
+  left: 54px;
+}
+
+.final-mailer-front .SCAN-FOR-OFF {
+  position: absolute;
+  width: 157px;
+  top: 727px;
+  left: 890px;
+  font-family: "Inter", Helvetica;
+  font-weight: 900;
+  color: transparent;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 23.1px;
+}
+
+.final-mailer-front .text-wrapper-7 {
+  font-style: italic;
+  color: #23272a;
+}
+
+.final-mailer-front .text-wrapper-8 {
+  font-style: italic;
+  color: #38b234;
+  font-size: 24.4px;
+  line-height: 28.2px;
+}
+
+.final-mailer-front .text-wrapper-9 {
+  position: absolute;
+  width: 226px;
+  top: 936px;
+  left: 856px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #000000;
+  font-size: 10px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.final-mailer-front .checkbox {
+  left: 308px;
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 802px;
+}
+
+.final-mailer-front .checkbox-2 {
+  left: 444px;
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 802px;
+}
+
+.final-mailer-front .checkbox-3 {
+  left: 579px;
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 802px;
+}
+
+.final-mailer-front .checkbox-4 {
+  left: 715px;
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 802px;
+}
+
+.final-mailer-front .START-FOR-FREE-AT {
+  position: absolute;
+  width: 580px;
+  top: 922px;
+  left: 259px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.final-mailer-front .text-wrapper-10 {
+  color: #ffffff;
+}
+
+.final-mailer-front .text-wrapper-11 {
+  color: #23272a;
+}
