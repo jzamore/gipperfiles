@@ -1,0 +1,8 @@
+:root {
+  --gray-scalewhite: rgba(255, 255, 255, 1);
+  --neutralwhite: rgba(255, 255, 255, 1);
+  --atomic-colors-interactive-dark-mode-green: rgba(56, 178, 52, 1);
+  --atomic-colors-gray-scale-gray-15: rgba(35, 39, 42, 1);
+  --atomic-colors-interactive-primary-green: rgba(37, 163, 40, 1);
+  --tokens-surface-primary-CTA: var(--atomic-colors-interactive-primary-green);
+}
